@@ -7,7 +7,7 @@ function Footer() {
             eye-
           </h1>
           <h1 className="text-[6vw] font-bold leading-none -mb-4 uppercase tracking-tighter">
-            opening
+            
           </h1>
         </div>
         <svg
